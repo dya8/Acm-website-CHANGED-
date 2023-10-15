@@ -494,7 +494,8 @@ section {
 }
 
 #hero .btn-get-started:hover {
-  background: #fff;
+   
+   background: #fff;
   color: #7a70b9;
   border: 1px solid #7072b9;
 }
