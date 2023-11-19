@@ -1,0 +1,46 @@
+.gallerywrap
+{
+    display: inline-block;
+
+}
+.typingeff
+{
+    color:aliceblue;
+    font-size:5em;
+    letter-spacing: 10px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-right: 5px solid;
+    width:100%;
+    white-space: nowrap;
+    overflow: hidden;
+    animation :
+    typing 2s steps(18),
+
+    cursor.4s step-end infinite alternate;
+}
+.creativehead
+{
+    color:aliceblue;
+    font-size:20 px;
+    letter-spacing: 10px;
+    font-family:  Arial, sans-serif;
+    border-right: 5px solid;
+    width:100%;
+    white-space: nowrap;
+    overflow: hidden;
+    animation :
+    typing 2s steps(18),
+
+    cursor.4s step-end infinite alternate;
+}
+@keyframes cursor {
+    50%
+    {
+        border-color:transparent
+    }
+    
+}
+@keyframes typing {
+    from{ width: 0}
+    
+}
