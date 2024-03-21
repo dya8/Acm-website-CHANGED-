@@ -637,7 +637,7 @@ section {
 # Call To Action
 --------------------------------------------------------------*/
 .call-to-action {
-  background: linear-gradient(rgba(1, 6, 42, 0.5), rgba(7, 9, 57, 0.5)), url("mainback.jpg") fixed center center;
+  background: linear-gradient(rgba(1, 6, 42, 0.5), rgba(7, 9, 57, 0.5)), url("backg.webp") fixed center center;
   background-size: cover;
   padding: 60px 0;
 }
